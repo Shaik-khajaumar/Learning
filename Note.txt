@@ -1,0 +1,5 @@
+1) Need to add templates
+2) Need to add iterators
+3) Need to add erase methods that use iterators also.
+4) Can add more methods as in stl
+5) Can add error handling
